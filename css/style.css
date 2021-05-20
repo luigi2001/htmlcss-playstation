@@ -1,23 +1,28 @@
 /* debug */
 
-.debug header .header-bottom{
+.debug header .header_bottom{
     height: 50px;
     background-color: lightgray;
 }
 
-.debug .jambotrom .box-jamb{
+.debug .jambotrom .box_jamb{
     height: 500px;
     background-color: blue;
 }
 
-.debug main .cover .box{
+.debug main .box{
     height: 100px;
     background-color: red;
 }
 
+.debug main .play5 .box_play5{
+    height: 300px;
+    background-color: violet;
+}
+
 /* fine debug */
 
-header .header-top{
+header .header_top{
     height: 30px;
     background-color: black;
 }
