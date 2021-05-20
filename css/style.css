@@ -10,6 +10,11 @@
     background-color: blue;
 }
 
+.debug main .cover .box{
+    height: 100px;
+    background-color: red;
+}
+
 /* fine debug */
 
 header .header-top{
