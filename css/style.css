@@ -1,0 +1,19 @@
+/* debug */
+
+.debug header .header-bottom{
+    height: 50px;
+    background-color: lightgray;
+}
+
+.debug .jambotrom .box-jamb{
+    height: 500px;
+    background-color: blue;
+}
+
+/* fine debug */
+
+header .header-top{
+    height: 30px;
+    background-color: black;
+}
+
