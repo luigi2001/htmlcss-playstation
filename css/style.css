@@ -1,12 +1,12 @@
-/* debug */
-
-.debug header .header_bottom{
-    height: 50px;
-    background-color: lightgray;
+.white{
+    color: white;
 }
+
+/* debug */
 
 .debug .jambotrom .box_jamb,
 .debug main .nuove_uscite .jamb_nv{
+    margin-top: 80px;
     height: 500px;
     background-color: blue;
 }
@@ -25,10 +25,29 @@
 
 /* fine debug */
 
+/*header top */
+
 header .header_top{
     height: 30px;
     background-color: black;
 }
+
+header .header_top img{
+    width: 50px;
+}
+
+/* fine header top */
+
+/*header bottom*/
+
+header .header_bottom{
+    width: 100%;
+    position: fixed;
+    top: 30px;
+    left: 0;
+}
+
+/*header bottom*/
 
 .nuove_uscite{
     background-color: black;
