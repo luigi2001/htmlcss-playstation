@@ -34,3 +34,8 @@ header .header_top{
     background-color: black;
 }
 
+footer{
+    height: 500px;
+    background-color: blue;
+}
+
