@@ -6,25 +6,17 @@
     color: blue;
 }
 
+.black{
+    color: black;
+}
+
 .bg_dorange{
     background-color: darkorange;
 }
 
-/* debug */
-
-.debug main .box{
-    height: 100px;
-    background-color: red;
+.bg_white{
+    background-color: white;
 }
-
-
-
-.debug main .now .box-now{
-    height: 300px;
-    background-color: violet;
-}
-
-/* fine debug */
 
 /*header top */
 
@@ -129,6 +121,30 @@ header .header_bottom{
 }
 
 /* fine ps plus */
+
+/* now */
+
+.now{
+    background-color: darkblue;
+}
+
+.box_now img{
+    width: 40%;
+}
+
+.box img{
+    width: 100%;
+}
+
+/* fine now */
+
+/* social */
+
+.social .box img{
+    width: 40%;
+}
+
+/* fine social */
 
 
 footer{
