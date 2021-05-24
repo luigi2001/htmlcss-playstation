@@ -18,7 +18,7 @@
 }
 
 
-.debug main .plus .box-plus,
+
 .debug main .now .box-now{
     height: 300px;
     background-color: violet;
@@ -113,6 +113,22 @@ header .header_bottom{
 }
 
 /* fine nuove uscite */
+
+/* ps plus */
+
+.plus{
+    background-color: lightgray;
+}
+
+.box_plus img{
+    width: 40%;
+}
+
+.box img{
+    width: 100%;
+}
+
+/* fine ps plus */
 
 
 footer{
