@@ -12,13 +12,6 @@
 
 /* debug */
 
-
-.debug main .nuove_uscite .jamb_nv{
-    margin-top: 80px;
-    height: 500px;
-    background-color: blue;
-}
-
 .debug main .box{
     height: 100px;
     background-color: red;
@@ -99,9 +92,28 @@ header .header_bottom{
 
 /* fine esplora playstatin 5 */
 
+/* nuove uscite */
+
 .nuove_uscite{
     background-color: black;
 }
+
+.nuove_uscite .jamb_nv{
+    background-image: url(../img/img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position-x: center;
+}
+
+.nuove_uscite .jamb_nv img{
+    width: 150px;
+}
+
+.nuove_uscite .jamb_nv .box_jamb_nv{
+    width: 40%;
+}
+
+/* fine nuove uscite */
+
 
 footer{
     height: 500px;
