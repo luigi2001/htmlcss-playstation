@@ -18,6 +18,10 @@
     background-color: white;
 }
 
+ul{
+    list-style: none;
+}
+
 /*header top */
 
 header .header_top{
@@ -148,7 +152,17 @@ header .header_bottom{
 
 
 footer{
-    height: 500px;
     background-color: blue;
 }
 
+footer .pie_pagina{
+    width: 50%;
+}
+
+footer .box img{
+    width: 25%;
+}
+
+footer .pie_pagina img{
+    width: 10%;
+}
