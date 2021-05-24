@@ -2,6 +2,10 @@
     color: white;
 }
 
+.blue{
+    color: blue;
+}
+
 .bg_dorange{
     background-color: darkorange;
 }
@@ -20,7 +24,7 @@
     background-color: red;
 }
 
-.debug main .play5 .box_play5,
+
 .debug main .plus .box-plus,
 .debug main .now .box-now{
     height: 300px;
@@ -81,7 +85,19 @@ header .header_bottom{
     border-radius: 15px;
 }
 
-/*cover giochi*/
+/*fine cover giochi*/
+
+/* esplora playstatin 5 */
+
+.box_play5 img{
+    width: 40%;
+}
+
+.box img{
+    width: 100%;
+}
+
+/* fine esplora playstatin 5 */
 
 .nuove_uscite{
     background-color: black;
